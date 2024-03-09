@@ -15,14 +15,13 @@ Displaying the top 2 most popular courses in a list format.
 
 Details page showcasing information about a specific course.
 
-![django views1](https://github.com/hihassan1998/djangoORMtemp/assets/150392365/9a6e6df4-94f0-44b6-9a67-c9269de18cbb)
-
+![django views1](https://github.com/hihassan1998/djangoORMtemp/assets/150392365/e2d4f3fa-b6a1-45a0-9583-075189ee8882)
 
 3. Enrollment Process
 
 The enrollment process, demonstrating the use of the Enroll button.
 
-![django views2](https://github.com/hihassan1998/djangoORMtemp/assets/150392365/3c9a106e-7fc4-45b8-a09c-f11df38b1c9c)
+![django views2](https://github.com/hihassan1998/djangoORMtemp/assets/150392365/8ea24893-ab8a-4269-9eb3-6a4aca11fb9b)
 
 ## Concepts Covered
 ##  1. SQLite
