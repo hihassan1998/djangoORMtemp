@@ -41,7 +41,7 @@ Description: A CSS card class is used to create flexible and stylized containers
 ##  How to Use
 1. Clone the repository.
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/your-username/your-repository.git](https://github.com/hihassan1998/djangoORMtemp.git
 
 2. Install dependencies.
 
