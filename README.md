@@ -9,15 +9,20 @@ In this section, we provide a visual overview of the Django Course App. Explore 
 
 1. Popular Courses List
 
-Caption: Displaying the top 10 most popular courses in a list format.
+Displaying the top 2 most popular courses in a list format.
 
 2. Course Details
 
-Caption: Details page showcasing information about a specific course.
+Details page showcasing information about a specific course.
+
+![django views1](https://github.com/hihassan1998/djangoORMtemp/assets/150392365/9a6e6df4-94f0-44b6-9a67-c9269de18cbb)
+
 
 3. Enrollment Process
 
-Caption: The enrollment process, demonstrating the use of the Enroll button.
+The enrollment process, demonstrating the use of the Enroll button.
+
+![django views2](https://github.com/hihassan1998/djangoORMtemp/assets/150392365/3c9a106e-7fc4-45b8-a09c-f11df38b1c9c)
 
 ## Concepts Covered
 ##  1. SQLite
@@ -37,6 +42,7 @@ Description: A CSS card class is used to create flexible and stylized containers
 1. Clone the repository.
 
 git clone https://github.com/your-username/your-repository.git
+
 2. Install dependencies.
 
 pip install -r requirements.txt
@@ -44,6 +50,7 @@ pip install -r requirements.txt
 3. Run the Django development server.
 
 python manage.py runserver
+
 Access the application in your web browser at http://127.0.0.1:8000/onlinecourse/.
 
 # 2. Standalone Django ORM Project Template
@@ -51,7 +58,7 @@ Access the application in your web browser at http://127.0.0.1:8000/onlinecourse
 This project template provides a foundation for creating a standalone Django ORM (Object-Relational Mapping) project along with an app. It is designed to be used as a learning tool and starting point for building more complex Django ORM applications.
 
 ## Directory Structure
-/ormtemplate/: This directory contains Django templates for various views, including the course_list.html template.
+/ormtemplate/: This directory contains Django basic standalone template 
 
 ## Purpose
 
